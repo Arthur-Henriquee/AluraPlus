@@ -131,5 +131,5 @@ color: var(--botao-azul);
 }
 .container__botao:hover{
     background-color: var(--branco-principal);
-    color: var(--cor-de-fundo);
+    color: var(--botao-azul-efeito);
 }
